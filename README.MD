@@ -71,16 +71,6 @@ Software engineering student, I mainly work on mathematical programming and data
 ![Linux server](https://img.shields.io/badge/Linux%20server-DA3B8A?style=for-the-badge&logo=linuxserver&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-006600?style=for-the-badge)
 
-<h2>Other technologies </h2>
-
- ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 <h2>Sports I work with</h2>
 
 ![MLB](https://img.shields.io/badge/Baseball-041E42?style=for-the-badge&logo=mlb&logoColor=white)
